@@ -12,4 +12,11 @@
 			s=ni+n2+n3
 			return s
       print add3(3,4,5)
+
+
+	def add34n1,n2,n3,n4);
+			s=ni+n2+n3+n4
+			return s
+      print add3(3,4,5,6)
+
 	
